@@ -9,7 +9,7 @@
 ### Создать файл config.py с таким содержанием:
 ```python
 BOT_TOKEN = 'Ваш_Токен_Телеграм_Бота'
-STATIC_API_KEY = 'Ваш_Токен_Яндекс_Static_API'
+STATIC_API_KEY = 'Ваш_api_key_Яндекс_Static_API'
 ```
 ### Установка зависимостей:
 ```
